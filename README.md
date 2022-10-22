@@ -7,16 +7,22 @@
 - I am Creative, Proactive, and I love Challenges!
 - When I am not coding, I enjoy reading, sipping coffee, and going outdoors!
 
-#### :star: Take a look at my [Portfolio](https://lemuellin.github.io/portfolio/)
+#### :star: Take a look at my :point_right: [Portfolio](https://lemuellin.github.io/portfolio/) :point_left:
 
-#### :star: Projects that I am proud of
-
+#### :star: Projects that I am proud of:
  - Monogram: [Readme](https://github.com/lemuellin/monogram) / [Live](https://lemuellin.github.io/monogram/)
+    - An Instagram clone incorporated weather widget to monitor weather/light condition.
  - Minimal Garden: [Readme](https://github.com/lemuellin/shopping-cart) / [Live](https://lemuellin.github.io/shopping-cart/)
+    - React E-Commerce site with Firebase back-end
+    
+ 
+#### and more...
  - Where's Walter? : [Readme](https://github.com/lemuellin/photo-tagging-app) / [Live](https://lemuellin.github.io/photo-tagging-app/)
+    - React photo-tagging game with Firebase backend
  - Battleship: [Readme](https://github.com/lemuellin/odin-battleship) / [Live](https://lemuellin.github.io/odin-battleship/)
+    - Classic game developed with Test-Driven-Development(TDD) and OOP factory pattern, AI implemented
  - Weather Now: [Readme](https://github.com/lemuellin/odin-weather-app) / [Live](https://lemuellin.github.io/odin-weather-app/)
-
+    - Weather app utilizing Open Weather API with Async JS.
 
 #### :small_red_triangle: Languages
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square) 
