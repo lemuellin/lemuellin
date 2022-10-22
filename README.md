@@ -11,7 +11,7 @@
 
 #### :star: Projects that I am proud of:
  - Monogram: [Readme](https://github.com/lemuellin/monogram) / [Live](https://lemuellin.github.io/monogram/)
-    - An Instagram clone incorporated weather widget to monitor weather/light condition.
+    - An Instagram clone incorporated weather widget to monitor weather/light condition
  - Minimal Garden: [Readme](https://github.com/lemuellin/shopping-cart) / [Live](https://lemuellin.github.io/shopping-cart/)
     - React E-Commerce site with Firebase back-end
     
