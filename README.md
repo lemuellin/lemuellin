@@ -12,6 +12,8 @@
 #### :star: Projects that I am proud of:
  - Monogram: [Readme](https://github.com/lemuellin/monogram) / [Live](https://lemuellin.github.io/monogram/)
     - An Instagram clone incorporated weather widget to monitor weather/lighting condition
+ - Inventory App: [Readme](https://github.com/lemuellin/inventory) / [Live](http://tct-tc-inventory.up.railway.app)
+    - CRUD inventory app utilizing MVC pattern, MongoDB Schema, and route controller
  - Minimal Garden: [Readme](https://github.com/lemuellin/shopping-cart) / [Live](https://lemuellin.github.io/shopping-cart/)
     - React E-Commerce site with Firebase back-end
     
@@ -34,6 +36,7 @@
 #### :small_red_triangle: Technologies
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square)
+![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
 ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat-square)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
@@ -41,6 +44,7 @@
 
 #### :small_red_triangle: Tools
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
+![Pug Badge](https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=fff&style=flat-square)
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat-square)
 ![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat-square)
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square)
