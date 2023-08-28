@@ -12,7 +12,7 @@
 #### :star: Projects that I am proud of:
  - Monogram: [Readme](https://github.com/lemuellin/monogram) / [Live](https://lemuellin.github.io/monogram/)
     - An Instagram clone incorporated weather widget to monitor weather/lighting condition
- - Inventory App: [Readme](https://github.com/lemuellin/inventory) / [Live](http://tct-tc-inventory.up.railway.app)
+ - Inventory App: [Readme](https://github.com/lemuellin/inventory) / [Live](https://tct-inventory.fly.dev/catalog)
     - CRUD inventory app utilizing MVC pattern, MongoDB Schema, and route controller
  - Minimal Garden: [Readme](https://github.com/lemuellin/shopping-cart) / [Live](https://lemuellin.github.io/shopping-cart/)
     - React E-Commerce site with Firebase back-end
