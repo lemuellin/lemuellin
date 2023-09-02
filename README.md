@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi, I'm Jake 👋
+  Hi, I'm Lemuel 👋
 </h2>
 
 #### :star: About Me:
